@@ -1,0 +1,1 @@
+declare const andre: Usuario;
